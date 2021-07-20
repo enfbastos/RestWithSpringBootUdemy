@@ -2,7 +2,7 @@ package br.com.erudio.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
-import br.com.erudio.model.Greeting;
+import br.com.erudio.data.model.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

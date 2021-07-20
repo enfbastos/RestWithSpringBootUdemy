@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.erudio.exception.UnsupportedMathOperationException;
 import br.com.erudio.math.SimpleMath;
-import br.com.erudio.request.converters.NumberConverter;
+import br.com.erudio.converter.NumberConverter;
 
 @RestController
 public class MathController {
