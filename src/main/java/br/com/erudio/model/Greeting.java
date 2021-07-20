@@ -1,4 +1,4 @@
-package br.com.erudio.controller;
+package br.com.erudio.model;
 
 public class Greeting {
 	private final long id;
